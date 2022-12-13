@@ -11,5 +11,4 @@ $password | Clip
 Write-Host "The password has been copied to the clipboard. You can now paste it into a password field or save it for later use."
 
 # Pause execution until the user presses a key
-$null = $Host.UI.RawUI.ReadKey("NoEcho,IncludeKeyDown")
 sleep 4
