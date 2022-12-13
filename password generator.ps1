@@ -10,5 +10,4 @@ $password | Clip
 # Display a message to indicate that the password has been copied to the clipboard
 Write-Host "The password has been copied to the clipboard. You can now paste it into a password field or save it for later use."
 
-# Pause execution until the user presses a key
 sleep 3
