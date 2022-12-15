@@ -7,4 +7,4 @@ Generates passwords offline, so your password is never transmitted over the inte
 Allows you to specify the length and complexity of the generated password
 Automatically copies the generated password to your clipboard, so you can easily paste it into the appropriate field
 ## Usage
-To use the password generator, simply download the script and run it in PowerShell. You will be prompted to enter the desired length and complexity of the password, and the generated password will be automatically copied to your clipboard.
+To use the password generator, simply download the script and run it in PowerShell. The generated password will be automatically copied to your clipboard.
